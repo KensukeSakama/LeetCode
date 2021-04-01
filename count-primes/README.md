@@ -1,3 +1,4 @@
+[Discussion Post (created on 1/3/2021 at 14:44)](https://leetcode.com/problems/count-primes/submissions/)  
 <h2>204. Count Primes</h2><h3>Easy</h3><hr><div><p>Count the number of prime numbers less than a non-negative number, <code>n</code>.</p>
 
 <p>&nbsp;</p>
