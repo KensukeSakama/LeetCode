@@ -1,3 +1,4 @@
+[Discussion Post (created on 14/3/2021 at 9:56)](https://leetcode.com/problems/single-number/discuss/?currentPage=1&orderBy=hot&query=)  
 <h2>136. Single Number</h2><h3>Easy</h3><hr><div><p>Given a <strong>non-empty</strong>&nbsp;array of integers <code>nums</code>, every element appears <em>twice</em> except for one. Find that single one.</p>
 
 <p><strong>Follow up:</strong>&nbsp;Could you implement a solution with a linear runtime complexity and without using extra memory?</p>
