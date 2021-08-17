@@ -4,14 +4,20 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let targetNum = {};
-    for (let i = 0; i < nums.length; i++) {
-        let targetNumber = target - nums[i];
-
-        if (targetNum[nums[i]] !== undefined) {
-            return [targetNum[nums[i]], i];
-        }
-
-        targetNum[targetNumber] = i;
+    
+  let log = {}, num
+  
+  for (let i = 0; i < nums.length; i++){
+    
+    num = target - nums[i];
+    
+    if (log[nums[i]] !== undefined) {
+      return [log[nums[i]], i]
+    } 
+    else {
+      log[num] = i;  
     }
+    
+  }
+  
 };
